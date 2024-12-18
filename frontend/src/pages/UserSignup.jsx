@@ -36,6 +36,7 @@ if(response.status ===201){
     email:data.user.email,
   });
 
+  
 }
 // console.log(data);
 
